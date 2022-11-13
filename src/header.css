@@ -1,0 +1,13 @@
+nav {
+     display: flex;
+     background-color: darkslategrey;
+}
+
+nav .logo {
+     flex-basis: 50%;
+}
+
+nav .links ul li {
+     list-style: none;
+     color: darkgoldenrod;
+}
